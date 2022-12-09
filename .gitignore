@@ -1,3 +1,6 @@
 .c9revisions
 ref
 archive
+*.pdf
+node_modules/
+.idea
