@@ -163,5 +163,5 @@ function pdfGenerator(psize, number, difficulty) {
     drawPDF(number, difficulty);
 }
 
-
+// TODO: make the distribution uniform
 pdfGenerator(undefined, 20, 30);
